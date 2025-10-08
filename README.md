@@ -1,6 +1,5 @@
 # 🔐 Keylogger Testing Application
 
-![Keylogger Demo](screenshot.png)
 
 A simple educational keylogger application built with HTML, CSS, and JavaScript for demonstration and learning purposes.
 
